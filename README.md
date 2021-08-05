@@ -5,6 +5,6 @@
 A github repository for the in-class scratch project for MDEV1003 in Summer 2021.
 
 ## Usage
-Used for the weekly demonstrations, just a collection of examples as we explore UE4
+Used for the weekly demonstrations, a collection of examples as we explore UE4
 
 Clone, or download the zip, to a local directory.
