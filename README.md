@@ -1,4 +1,4 @@
-# Project Name  COMP3023w21
+# Project Name  Summer21MDEV
 <img src="Saved/AutoScreenshot.png" width="320"  align="right" />
 ## Descripton
 
